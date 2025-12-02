@@ -66,7 +66,7 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 ---
 
 ## 📊 GitHub Stats
-[![Lucius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucius&show_icons=true&theme=tokyonight)](https://github.com/Lucius/github-readme-stats)
+[![Lucius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Lucius&show_icons=true&theme=tokyonight)](https://github.com/Lord-Lucius/github-readme-stats)
 
 ---
 
