@@ -1,4 +1,4 @@
-# Hi there, I'm Rosse 👋
+# Hi there, I'm Lucius 👋
 
 💻 I'm a software and data enthusiast currently studying at **42**.  
 
@@ -66,7 +66,7 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 ---
 
 ## 📊 GitHub Stats
-[![RosseMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight)](https://github.com/RosseMry/github-readme-stats)
+[![Lucius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucius&show_icons=true&theme=tokyonight)](https://github.com/Lucius/github-readme-stats)
 
 ---
 
