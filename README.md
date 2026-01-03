@@ -1,6 +1,6 @@
 # Hi there, I'm Lucius 👋
 
-💻 I'm a software and data enthusiast currently studying at **42**.  
+💻 I'm a software and cybersecurity enthusiast currently studying at **42**.  
 
 ---
 
