@@ -97,9 +97,7 @@ A high-performance line reader for file descriptors. Mastered dynamic memory all
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lord-Lucius&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lord-Lucius&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Lucius&layout=compact&langs_count=8&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lord-Lucius&theme=tokyonight) ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Lucius&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
