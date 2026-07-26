@@ -38,7 +38,9 @@ My algorithm and data-structure practice in Python — kept public as a running 
 
 ## Tech
 
+<div align="center">
 ![Top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lord-Lucius&layout=compact&langs_count=8&theme=tokyonight)
+</div>
 
 ---
 
